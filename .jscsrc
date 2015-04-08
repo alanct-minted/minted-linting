@@ -1,0 +1,5 @@
+{
+    "preset": "google",
+    "esprima": "./node_modules/esprima-fb",
+    "maximumLineLength": 80
+}
